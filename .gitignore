@@ -21,3 +21,4 @@ sitemap.xml.gz
 .htaccess
 searchreplacedb2.php
 Movefile
+.module-cache/
